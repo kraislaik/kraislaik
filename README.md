@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kraislaik
 - 👀 I’m interested in network automation
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on python network automation projects
 - 📫 How to reach me: kraislaik@gmail.com
 
